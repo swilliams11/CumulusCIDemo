@@ -3,6 +3,7 @@ project:
     name: CumulusCIDemo
     package:
         name: CumulusCIDemo
+        namespace: willsfoodbank
         api_version: '55.0'
     git:
         default_branch: 'main'
