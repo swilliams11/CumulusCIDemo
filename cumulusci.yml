@@ -2,8 +2,8 @@ minimum_cumulusci_version: '3.77.0'
 project:
     name: CumulusCIDemo
     package:
-        name: CumulusCIDemo
-        namespace: willsfoodbank
+        name: Food-Bank
+        namespace: willstestnamesp
         api_version: '55.0'
     git:
         default_branch: 'main'
